@@ -1,2 +1,0 @@
-# TurkishDate
-TurkishDate
